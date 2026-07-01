@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="billiards/billiards.vcxproj" Id="e702f4ae-e439-4771-a5de-ba2ae0108d2e" />
+</Solution>

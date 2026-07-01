@@ -1,0 +1,24 @@
+﻿  draw.cpp
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(15,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(16,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(21,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(26,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(30,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(35,67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(44,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(45,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(64,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(95,60): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(96,60): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\draw.cpp(98,29): warning C4305: “-=”: 从“double”到“float”截断
+  main.cpp
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(29,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(30,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(104,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(105,57): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(108,33): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(37,15): warning C4101: “dist”: 未引用的局部变量
+C:\Users\ASUS\Desktop\game\billiards\billiards\main.cpp(36,18): warning C4101: “nearest”: 未引用的局部变量
+  正在生成代码...
+  billiards.vcxproj -> C:\Users\ASUS\Desktop\game\billiards\x64\Debug\billiards.exe
